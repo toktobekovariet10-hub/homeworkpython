@@ -20,3 +20,4 @@ print(person3.name, person3.birth_date, person3.occupation, person3.higher_educa
 person1.introduce()
 person2.introduce()
 person3.introduce()
+ц
